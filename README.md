@@ -12,3 +12,5 @@ Aplikasi ini berfungsi menunjukan profile yang nantinya terdapat 3 button, yang 
 - expo-linear-gradient
 - expo-status-bar
 - expo-web-browser
+
+Download AAB file in : https://drive.google.com/drive/folders/1UjgpC_QBs1pZkn-Rv7KrzmZMRkd9QikK?usp=sharing
